@@ -10,7 +10,7 @@ A simple data analysis of ramen ratings using [The Ramen Rater's dataset](https:
 Number of Ratings: 2685
 
 ### Best and Worst Ratings by Country
-| Country | Average Ratings | # of Ratings |
+| Country | Average Ratings | # of Products |
 | -------:|:---------------:|:-----------------:|
 | Brazil | 4.35 | 5 |
 | Cambodia | 4.20 | 5 |
